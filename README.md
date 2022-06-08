@@ -1,2 +1,2 @@
-# RPSI
-Implementation of RPSI
+# Robust Pareto Set Identification with Contaminated Bandit Feedback
+This repository contains the implementation of R-PSI algorithm from our paper ["Pareto Active Learning with Gaussian Processes and Adaptive Discretization"](https://arxiv.org/abs/2006.14061) and Algorithm 1 from ["Pareto Front Identification from Stochastic Bandit Feedback"](https://proceedings.mlr.press/v51/auer16.html). The algorithms are compared on 3 setups. The results of each setup can be recreated by changing the variable "setting" inside "main.py".
